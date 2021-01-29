@@ -11,8 +11,8 @@ body {
     height: 100vh;
     background-color: hsl(185, 75%, 39%);
     background-image: 
-    url(/profile-card/images/bg-pattern-top.svg),
-    url(/profile-card/images/bg-pattern-bottom.svg); 
+    url(/images/bg-pattern-top.svg),
+    url(/images/bg-pattern-bottom.svg); 
     background-position:    top -340px left -120px,
                             bottom -430px  right -90px;
     background-repeat: no-repeat;
@@ -36,7 +36,7 @@ h1 {
     flex-direction: column;
     width: 325px;
     height: 380px;
-    background-image: url(/profile-card/images/bg-pattern-card.svg);
+    background-image: url(/images/bg-pattern-card.svg);
     background-color: white;
     background-repeat: repeat-x;
     border-radius: 3%;
